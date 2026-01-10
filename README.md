@@ -5,7 +5,7 @@
 
 - 👨‍💻 Created two productivity tools available on Microsoft Store [Quick Search Quest](https://apps.microsoft.com/detail/9nnrqf51ghhq?hl=en-GB&gl=GB) & [Launch Deck](https://apps.microsoft.com/detail/9p59z4z5jflq?hl=en-GB&gl=GB)
     
-- ⚡ **I also launched a [Mixtape](https://promises-the-mixtape-whats-next.netlify.app/#) of software tools.**
+- 🎶 **I also created a [Novel Concept](https://promises-the-mixtape-whats-next.netlify.app/#) website of a collection of software tools, released like a music mixtape.**
 
 - 🌱 I’m currently learning **Data Science, Analysis**
 
