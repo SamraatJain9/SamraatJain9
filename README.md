@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Samraat</h1>
 <h3 align="center">Exploring data, design & Building tools for energy, insight, and impact.</h3>
 
-
+- 👨‍💻 Created two productivity tools available on Microsoft Store [Quick Search Quest](https://apps.microsoft.com/detail/9nnrqf51ghhq?hl=en-GB&gl=GB) & [Launch Deck](https://apps.microsoft.com/detail/9p59z4z5jflq?hl=en-GB&gl=GB)
+- 
 - 🔭 I’m currently working on **researching a data-driven solution to reduce energy waste.**
 
 - 🌱 I’m currently learning **Data Science, Analysis**
@@ -12,7 +13,7 @@
 
 - 📫 How to reach me **samraat1official8@gmail.com**
 
-- ⚡ Fun fact **I launched a mixtape of software tools, because sometimes code deserves a soundtrack.**
+- ⚡ Fun fact **I launched a [Mixtape](https://promises-the-mixtape-whats-next.netlify.app/#) of software tools.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
