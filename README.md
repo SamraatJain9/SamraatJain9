@@ -2,7 +2,7 @@
 <h3 align="center">Exploring data, design & Building tools for energy, insight, and impact.</h3>
 
 - 👨‍💻 Created two productivity tools available on Microsoft Store [Quick Search Quest](https://apps.microsoft.com/detail/9nnrqf51ghhq?hl=en-GB&gl=GB) & [Launch Deck](https://apps.microsoft.com/detail/9p59z4z5jflq?hl=en-GB&gl=GB)
-- 
+
 - 🔭 I’m currently working on **researching a data-driven solution to reduce energy waste.**
 
 - 🌱 I’m currently learning **Data Science, Analysis**
