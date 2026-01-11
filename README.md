@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Data Science, Analysis**
 
-- 👯 I’m looking to collaborate on [a new concept.](https://promises-the-mixtape-whats-next.netlify.app/#)
-
 - 🤝 I’m looking for help with **learning more about Quantum Computing and Bioinformatics**
 
 - 📫 How to reach me **samraat1official8@gmail.com**
