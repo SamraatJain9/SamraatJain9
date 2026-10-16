@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Samraat</h1>
-<h3 align="center">Exploring data, design & Building tools for energy, insight, and impact.</h3>
+<h1 align="center">I am Samraat Jain</h1>
+<h3 align="center">Exploring data, design & Researching optimizations for energy and projects for community growth.</h3>
 
 - 🔭 I’m currently working on **researching a data-driven solution to reduce energy waste.**
 
 - 👨‍💻 Created two productivity tools available on Microsoft Store [Quick Search Quest](https://apps.microsoft.com/detail/9nnrqf51ghhq?hl=en-GB&gl=GB) & [Launch Deck](https://apps.microsoft.com/detail/9p59z4z5jflq?hl=en-GB&gl=GB)
     
-- 🎶 **I also created a [Novel Concept](https://promises-the-mixtape-whats-next.netlify.app/#) website of a collection of software tools, released like a music mixtape.**
+- 🎶 **I also created two Novel Concepts: [Promises](https://promises-the-mixtape-whats-next.netlify.app/#) & [Reality](https://reality-the-mixtape-whats-next.netlify.app/) websites with a collection of software tools and puzzles released like a music mixtape.**
 
-- 🌱 I’m currently learning **Data Science, Analysis**
+- 🌱 I’m currently learning **Data Science, At University of Michigan, Ann Arbor**
 
-- 🤝 I’m looking for help with **learning more about Quantum Computing and Bioinformatics**
+- 🤝 I’m looking to collaborate with other programmers.
 
 - 📫 How to reach me **samraat1official8@gmail.com**
 
